@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "firstName": "mohamed",
+      "age": 10,
+      "companyId": "1"
+    },
+    {
+      "id": "20",
+      "firstName": "mohamed1",
+      "age": 20,
+      "companyId": "2"
+    },
+    {
+      "id": "30",
+      "firstName": "mohamed3",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "mohamed1",
+      "age": 20,
+      "id": "sUTf1dA"
+    },
+    {
+      "firstName": "mmmm",
+      "age": 20,
+      "id": "-_RC8bV"
+    },
+    {
+      "firstName": "ss",
+      "age": 23,
+      "id": "YHlmeFB"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "google",
+      "desc": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "android",
+      "desc": "phones"
+    }
+  ]
+}
